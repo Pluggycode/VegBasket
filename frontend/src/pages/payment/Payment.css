@@ -1,0 +1,13 @@
+.place-order-left button{
+    color: white;
+    background-color: tomato;
+    width: max(15vw,200px);
+    padding: 12px 0px;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.place-order-left .multi-fileds{
+    display: flex;
+    gap: 10px;
+}
